@@ -4,5 +4,5 @@
   <a href="https://jgsrty.github.io">Global Blog Entry</a>
 </p>
 <p align="center"> 
-  <img src="https://rtyxmd.gitee.io/rtyresources2019/zelda.jpg" />
+  <img src="https://rtyxmd.gitee.io/rtyresources2019/zel.jpg" />
 </p>
